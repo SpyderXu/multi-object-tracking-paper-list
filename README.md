@@ -1,4 +1,4 @@
-# multi-object-tracking-paper-list
+# Multi-Object-Tracking-Paper-List
 Multi-object tracking is a deeply explored computer version problem. This is a paper list for multi-object-tracking.
 ## Datasets
 [PETS2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) : An old dataset.<br>
