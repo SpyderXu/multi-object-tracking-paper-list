@@ -1,5 +1,5 @@
 # Multi-Object-Tracking-Paper-List
-Multi-object tracking is a deeply explored computer version problem. This is a paper list for multi-object-tracking.
+Multi-object tracking is a deeply explored but not successfully solved computer vision task. This filed needs more open sources and more standard evaluation metrics. Opening source code is not the characteristic for this field（maybe the large number of parameters waited to be tuned)......  This is a paper list for multi-object-tracking.
 ## Datasets
 [PETS2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) : An old dataset.<br>
 [KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : multi-person or multi-car tracking dataset.<br>
@@ -26,6 +26,7 @@ Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and
 **KSP** : J. Berclaz, F. Fleuret, E. Türetken and P. Fua "Multiple Object Tracking using K-Shortest Paths Optimization" [[paper]](https://cvlab.epfl.ch/files/content/sites/cvlab2/files/publications/publications/2011/BerclazFTF11.pdf) [[code]](https://cvlab.epfl.ch/software/ksp)  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2011.<br>
 **GMCP** : Amir Roshan Zamir, Afshin Dehghan, and Mubarak Shah "GMCP-Tracker: Global Multi-object Tracking Using Generalized Minimum Clique Graphs" [[paper]](http://crcv.ucf.edu/papers/eccv2012/GMCP-Tracker_ECCV12.pdf) [[code]](http://crcv.ucf.edu/projects/GMCP-Tracker/) European Conference on Computer Vision (ECCV), 2012.<br>
 ### Online
+**MOTDT**[[code]](https://github.com/longcw/MOTDT)[paper]waited!<br>
 **TMPORT** : E. Ristani and C. Tomasi. Tracking Multiple People Online and in Real Time. in ACCV 2014 [[paper]](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniAccv14.pdf) [[code]](http://vision.cs.duke.edu/DukeMTMC/)<br>
 **MOT-RNN** : Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Konrad Schindler, Ian Reid "Online Multi-target Tracking using Recurrent Neural Networks"[[paper]](http://www.milanton.de/files/aaai2017/aaai2017-anton-rnntracking.pdf) [[code]](https://bitbucket.org/amilan/rnntracking) In AAAI 2017.<br>
 **DeepSort** : Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich "Simple Online and Realtime Tracking with a Deep Association Metric" [[paper]](https://arxiv.org/abs/1703.07402) [[code]](https://github.com/nwojke/deep_sort) In ICIP 2017<br>
@@ -56,5 +57,8 @@ Ristani and C. Tomasi "Features for Multi-Target Multi-Camera Tracking and Re-Id
 
 ### New paper
 M Fabbri, F Lanzi, S Calderara, A Palazzi "Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World" [[paper]](https://www.researchgate.net/publication/323957071_Learning_to_Detect_and_Track_Visible_and_Occluded_Body_Joints_in_a_Virtual_World) [[code]] Waited!<br>
-Cong Ma, Changshui Yang, Fan Yang, Yueqing Zhuang, Ziwei Zhang, Huizhu Jia, Xiaodong Xie "Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking" In ICME 2018 [[paper]](https://arxiv.org/abs/1804.04555)
+Cong Ma, Changshui Yang, Fan Yang, Yueqing Zhuang, Ziwei Zhang, Huizhu Jia, Xiaodong Xie "Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking" In ICME 2018 [[paper]](https://arxiv.org/abs/1804.04555)<br>
+Kuan Fang, Yu Xiang, Xiaocheng Li and Silvio Savarese "Recurrent Autoregressive Networks for Online Multi-Object Tracking" In IEEE Winter Conference on Applications of Computer Vision (WACV), 2018. [[webpage]](http://yuxng.github.io/)<br>
+Tharindu Fernando, Simon Denman, Sridha Sridharan, Clinton Fookes "Tracking by Prediction: A Deep Generative Model for Mutli-Person localisation and Tracking" In WACV 2018 [[paper]](https://arxiv.org/pdf/1803.03347.pdf)<br>
+Yuliang Xiu, Jiefeng Li, Haoyu Wang, Yinghong Fang, Cewu Lu "Pose Flow: Efficient Online Pose Tracking" [[paper]](https://arxiv.org/abs/1802.00977) Idea is interesting but the true source code is not opened.
 
