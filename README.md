@@ -15,6 +15,7 @@ Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and
 **IDF1** : Ristani, E., Solera, F., Zou, R., Cucchiara, R. & Tomasi, C. "Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking" [[paper]](https://users.cs.duke.edu/~ristani/bmtt2016/ristani2016MTMC.pdf)<br>
 ## Open Source
 ### Batch
+**headTracking**: Shun Zhang, Jinjun Wang, Zelun Wang, Yihong Gong,Yuehu Liu: "Multi-Target Tracking by Learning Local-to-Global Trajectory Models" in PR 2015 [[paper]](https://www.researchgate.net/publication/265295656_Multi-Target_Tracking_by_Learning_Local-to-Global_Trajectory_Models) [[code]](https://github.com/gengshan-y/headTracking) seems like a repo.<br>
 **IOU** : E. Bochinski, V. Eiselein, T. Sikora. "High-Speed Tracking-by-Detection Without Using Image Information" [[paper]](http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf) [[code]](https://github.com/bochinski/iou-tracker/) In International Workshop on Traffic and Street Surveillance for Safety and Security at IEEE AVSS 2017, 2017. <br>
 **NMGC-MOT** Andrii Maksai, Xinchao Wang, Franc¸ois Fleuret, and Pascal Fua "Non-Markovian Globally Consistent Multi-Object Tracking
 " [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Maksai_Non-Markovian_Globally_Consistent_ICCV_2017_paper.pdf)[[code]](https://github.com/maksay/ptrack_cpp) In ICCV 2017<br>
@@ -61,4 +62,8 @@ Cong Ma, Changshui Yang, Fan Yang, Yueqing Zhuang, Ziwei Zhang, Huizhu Jia, Xiao
 Kuan Fang, Yu Xiang, Xiaocheng Li and Silvio Savarese "Recurrent Autoregressive Networks for Online Multi-Object Tracking" In IEEE Winter Conference on Applications of Computer Vision (WACV), 2018. [[webpage]](http://yuxng.github.io/)<br>
 Tharindu Fernando, Simon Denman, Sridha Sridharan, Clinton Fookes "Tracking by Prediction: A Deep Generative Model for Mutli-Person localisation and Tracking" In WACV 2018 [[paper]](https://arxiv.org/pdf/1803.03347.pdf)<br>
 Yuliang Xiu, Jiefeng Li, Haoyu Wang, Yinghong Fang, Cewu Lu "Pose Flow: Efficient Online Pose Tracking" [[paper]](https://arxiv.org/abs/1802.00977) Idea is interesting but the true source code is not opened.
+
+### Multi-person face tracking...
+Shun Zhang, Yihong Gong, Jia-Bin Huang, Jongwoo Lim, Jinjun Wang, Narendra Ahuja and Ming-Hsuan Yang "Tracking Persons-of-Interest via Adaptive Discriminative Features" In ECCV 2016 [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46454-1_26.pdf) [[code]](https://github.com/shunzhang876/AdaptiveFeatureLearning)<br>
+Chung-Ching Lin, Ying Hung"A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos" In CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_A_Prior-Less_Method_CVPR_2018_paper.pdf)<br>
 
