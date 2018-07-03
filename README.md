@@ -13,6 +13,15 @@ Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and
 ## Evaluation Metric
 **CLEAR MOT** : Bernardin, K. & Stiefelhagen, R. "Evaluating Multiple Object Tracking Performance: The CLEAR MOT Metric" [[paper]](https://cvhci.anthropomatik.kit.edu/images/stories/msmmi/papers/eurasip2008.pdf)<br>
 **IDF1** : Ristani, E., Solera, F., Zou, R., Cucchiara, R. & Tomasi, C. "Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking" [[paper]](https://users.cs.duke.edu/~ristani/bmtt2016/ristani2016MTMC.pdf)<br>
+## Researcher
+**Anton Milan** [[webpage and his source code]](http://www.milanton.de/)<br>
+**Laura Leal-Taixé** [[webpage and her source code]](https://lealtaixe.github.io/publications/)<br>
+**Dynamic Vision and Learning Group** [[webpage and their source code]](https://dvl.in.tum.de/research/mot/)<br>
+**Longyin Wen** [[webpage and his source code]] (http://www.cbsr.ia.ac.cn/users/lywen/)<br>
+Some source codes in above webpage are not listed in below Open Source.<br>
+Such as: "segTrack"<br>
+"Exploiting Hierarchical Dense Structures on Hypergraphs for Multi-Object Tracking"<br>
+"Learning an image-based motion context for multiple people tracking"<br> 
 ## Open Source
 ### Batch
 **headTracking**: Shun Zhang, Jinjun Wang, Zelun Wang, Yihong Gong,Yuehu Liu: "Multi-Target Tracking by Learning Local-to-Global Trajectory Models" in PR 2015 [[paper]](https://www.researchgate.net/publication/265295656_Multi-Target_Tracking_by_Learning_Local-to-Global_Trajectory_Models) [[code]](https://github.com/gengshan-y/headTracking) seems like a repo.<br>
