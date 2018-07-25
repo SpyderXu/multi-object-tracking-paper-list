@@ -5,6 +5,7 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 [KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : multi-person or multi-car tracking dataset.<br>
 [MOT dataset](https://motchallenge.net/) : A dataset for multi-person detection and tracking, mostly used.<br>
 [UA-DETRAC](http://detrac-db.rit.albany.edu/) : A dataset for multi-car detection and tracking. <br>
+[AVSS2018 Challenge](https://iwt4s2018.wordpress.com/challenge/) : AVSS2018 Challenge based on UA-DETRAC is opened!<br>
 [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) : A dataset for multi-camera multi-person tracking. <br>
 [PoseTrack](https://posetrack.net/): A dataset for multi-person pose tracking. <br>
 [NVIDIA AI CITY Challenge](https://www.aicitychallenge.org/): Challenges including "Traffic Flow Analysis", "Anomaly Detection" and "Multi-sensor Vehicle Detection and Reidentification", you may find some insteresting codes on their [Github repos](https://github.com/NVIDIAAICITYCHALLENGE)<br>
