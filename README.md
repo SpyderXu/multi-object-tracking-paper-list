@@ -2,14 +2,14 @@
 Multi-object tracking is a deeply explored but not successfully solved computer vision task. This filed needs more open sources and more standard evaluation metrics. Opening source code is not the characteristic for this field（maybe the large number of parameters waited to be tuned)......  This is a paper list for multi-object-tracking.
 ## Datasets
 [PETS2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) : An old dataset.<br>
-[KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : multi-person or multi-car tracking dataset.<br>
+[KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : Multi-person or multi-car tracking dataset.<br>
 [MOT dataset](https://motchallenge.net/) : A dataset for multi-person detection and tracking, mostly used.<br>
 [UA-DETRAC](http://detrac-db.rit.albany.edu/) : A dataset for multi-car detection and tracking. <br>
 [AVSS2018 Challenge](https://iwt4s2018.wordpress.com/challenge/) : AVSS2018 Challenge based on UA-DETRAC is opened!<br>
 [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) : A dataset for multi-camera multi-person tracking. <br>
 [PoseTrack](https://posetrack.net/): A dataset for multi-person pose tracking. <br>
 [NVIDIA AI CITY Challenge](https://www.aicitychallenge.org/): Challenges including "Traffic Flow Analysis", "Anomaly Detection" and "Multi-sensor Vehicle Detection and Reidentification", you may find some insteresting codes on their [Github repos](https://github.com/NVIDIAAICITYCHALLENGE)<br>
-[Vis Drone](http://www.aiskyeye.com/views/index): tracking videos captured by drone-mounted cameras.<br>
+[Vis Drone](http://www.aiskyeye.com/views/index): Tracking videos captured by drone-mounted cameras.<br>
 [JTA Dataset](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25): A huge dataset for pedestrian pose estimation and tracking in urban scenarios created by exploiting the highly photorealistic video game Grand Theft Auto V developed by Rockstar North.<br>
 ## Overview
 P Emami,PM Pardalos,L Elefteriadou,S Ranka "Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking" [[paper]](http://xueshu.baidu.com/s?wd=paperuri%3A%28dcfbdc0f8f79fe44d9166fd2481e37aa%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1802.06897&ie=utf-8&sc_us=15766836095004964816)<br>
