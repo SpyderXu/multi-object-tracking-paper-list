@@ -70,6 +70,12 @@ Qi Chu, Wanli Ouyang,  Xiaogang Wang, Bin Liu, Nenghai Yu "Online Multi-Object T
 ### CVPR2018
 Ristani and C. Tomasi "Features for Multi-Target Multi-Camera Tracking and Re-Identification" [[paper]](https://arxiv.org/pdf/1803.10859.pdf) [[code]](https://github.com/ergysr/DeepCC)<br>
 
+### ECCV2018
+Zhu, Ji and Yang, Hua and Liu, Nian and Kim, Minyoung and Zhang, Wenjun and Yang, Ming-Hsuan "Online Multi-Object Tracking with Dual Matching Attention Networks" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) <br>
+Ren, Liangliang and Lu, Jiwen and Wang, Zifeng and Tian, Qi and Zhou, Jie "Collaborative Deep Reinforcement Learning for Multi-Object Tracking" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)<br>
+Kim, Chanho and Li, Fuxin and Rehg, James M "Multi-object Tracking with Neural Gating Using Bilinear LSTM" [[paper]]
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)<br>
+
 ### New paper
 M Fabbri, F Lanzi, S Calderara, A Palazzi "Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World" [[paper]](https://www.researchgate.net/publication/323957071_Learning_to_Detect_and_Track_Visible_and_Occluded_Body_Joints_in_a_Virtual_World) [[code]] Waited!<br>
 Cong Ma, Changshui Yang, Fan Yang, Yueqing Zhuang, Ziwei Zhang, Huizhu Jia, Xiaodong Xie "Trajectory Factory: Tracklet Cleaving and Re-connection by Deep Siamese Bi-GRU for Multiple Object Tracking" In ICME 2018 [[paper]](https://arxiv.org/abs/1804.04555)<br>
