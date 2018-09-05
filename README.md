@@ -71,7 +71,7 @@ Qi Chu, Wanli Ouyang,  Xiaogang Wang, Bin Liu, Nenghai Yu "Online Multi-Object T
 Ristani and C. Tomasi "Features for Multi-Target Multi-Camera Tracking and Re-Identification" [[paper]](https://arxiv.org/pdf/1803.10859.pdf) [[code]](https://github.com/ergysr/DeepCC)<br>
 
 ### ECCV2018
-Zhu, Ji and Yang, Hua and Liu, Nian and Kim, Minyoung and Zhang, Wenjun and Yang, Ming-Hsuan "Online Multi-Object Tracking with Dual Matching Attention Networks" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) <br>
+Zhu, Ji and Yang, Hua and Liu, Nian and Kim, Minyoung and Zhang, Wenjun and Yang, Ming-Hsuan "Online Multi-Object Tracking with Dual Matching Attention Networks" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) The source code will be made available to the public！<br>
 Ren, Liangliang and Lu, Jiwen and Wang, Zifeng and Tian, Qi and Zhou, Jie "Collaborative Deep Reinforcement Learning for Multi-Object Tracking" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)<br>
 Kim, Chanho and Li, Fuxin and Rehg, James M "Multi-object Tracking with Neural Gating Using Bilinear LSTM" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)<br>
 
