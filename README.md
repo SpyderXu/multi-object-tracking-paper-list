@@ -14,6 +14,7 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 [JTA Dataset](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25): A huge dataset for pedestrian pose estimation and tracking in urban scenarios created by exploiting the highly photorealistic video game Grand Theft Auto V developed by Rockstar North.<br>
 [Baidu Trajectory](http://apolloscape.auto/trajectory.html) Interesting dataset for trajectory prediction for Autonomous drive, wait to be opened.<br>
 [Path Track](http://people.ee.ethz.ch/~daid/pathtrack/) A new dataset with many scenes.<br>
+[MOTS](https://www.vision.rwth-aachen.de/page/mots) MOTS: Multi-Object Tracking and Segmentation.<br>
 ## Overview
 P Emami,PM Pardalos,L Elefteriadou,S Ranka "Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking" [[paper]](http://xueshu.baidu.com/s?wd=paperuri%3A%28dcfbdc0f8f79fe44d9166fd2481e37aa%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1802.06897&ie=utf-8&sc_us=15766836095004964816)<br>
 Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and Tae-Kyun Kim, "Multiple Object Tracking: A Literature Review" [[paper]](http://pdfs.semanticscholar.org/3dff/acda086689c1bcb01a8dad4557a4e92b8205.pdf)<br>
@@ -98,4 +99,3 @@ Chung-Ching Lin, Ying Hung"A Prior-Less Method for Multi-Face Tracking in Uncons
 ### Multi-person Pose Tracking
 Yuliang Xiu, Jiefeng Li, Haoyu Wang, Yinghong Fang, Cewu Lu "Pose Flow: Efficient Online Pose Tracking" [[paper]](https://arxiv.org/abs/1802.00977) Idea is interesting but the true source code is not opened.<br>
 Bin Xiao, Haiping Wu, and Yichen Wei "Simple Baselines for Human Pose Estimation and Tracking" [[paper]](https://arxiv.org/pdf/1804.06208.pdf)[[code]](https://github.com/Microsoft/human-pose-estimation.pytorch)
-
