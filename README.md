@@ -2,8 +2,8 @@
 Some new works could be found in the MOT16、MOT17 ranking list, but it seems that no work opening their source code in recent months, so I did not update the source code list. Sometimes, I think that the MOT benchmark may lead the researchers to a wrong direction. The MOT17 benchmark provides three kinds of detection results: DPM, Faster RCNN and SDP, if you analyse the results based on different detections, you would find that most trackers has similar performance on Faster RCNN and SDP detections. The trackers ranking well mostly rely on the good performance on DPM detections and they have similar performance with DeepSort when adopting Faster RCNN and SDP detections. So if you want to improve your MOTA score, focus on DPM result.<br>  
 Multi-object tracking is a deeply explored but not successfully solved computer vision task. This filed needs more open sources and more standard evaluation metrics. Opening source code is not the characteristic for this field（maybe the large number of parameters waited to be tuned)......  This is a paper list for multi-object-tracking.
 ## Datasets
+### Surveillance Scenarios
 [PETS2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) : An old dataset.<br>
-[KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : Multi-person or multi-car tracking dataset.<br>
 [MOT dataset](https://motchallenge.net/) : A dataset for multi-person detection and tracking, mostly used.<br>
 [UA-DETRAC](http://detrac-db.rit.albany.edu/) : A dataset for multi-car detection and tracking. <br>
 [AVSS2018 Challenge](https://iwt4s2018.wordpress.com/challenge/) : AVSS2018 Challenge based on UA-DETRAC is opened!<br>
@@ -12,9 +12,14 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 [NVIDIA AI CITY Challenge](https://www.aicitychallenge.org/): Challenges including "Traffic Flow Analysis", "Anomaly Detection" and "Multi-sensor Vehicle Detection and Reidentification", you may find some insteresting codes on their [Github repos](https://github.com/NVIDIAAICITYCHALLENGE)<br>
 [Vis Drone](http://www.aiskyeye.com/views/index): Tracking videos captured by drone-mounted cameras.<br>
 [JTA Dataset](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25): A huge dataset for pedestrian pose estimation and tracking in urban scenarios created by exploiting the highly photorealistic video game Grand Theft Auto V developed by Rockstar North.<br>
-[Baidu Trajectory](http://apolloscape.auto/trajectory.html) Interesting dataset for trajectory prediction for Autonomous drive, wait to be opened.<br>
 [Path Track](http://people.ee.ethz.ch/~daid/pathtrack/) A new dataset with many scenes.<br>
 [MOTS](https://www.vision.rwth-aachen.de/page/mots) MOTS: Multi-Object Tracking and Segmentation.<br>
+### Driving Scenarios
+[KITTI-Tracking](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) : Multi-person or multi-car tracking dataset.<br>
+[MOTS](https://www.vision.rwth-aachen.de/page/mots) MOTS: Multi-Object Tracking and Segmentation.<br>
+[Apollo-Tracking](http://apolloscape.auto/tracking.html) 3D Lidar multi-object tracking.<br> 
+[Baidu Trajectory](http://apolloscape.auto/trajectory.html) Interesting dataset for trajectory prediction for Autonomous drive, wait to be opened.<br>
+
 ## Overview
 P Emami,PM Pardalos,L Elefteriadou,S Ranka "Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking" [[paper]](http://xueshu.baidu.com/s?wd=paperuri%3A%28dcfbdc0f8f79fe44d9166fd2481e37aa%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1802.06897&ie=utf-8&sc_us=15766836095004964816)<br>
 Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and Tae-Kyun Kim, "Multiple Object Tracking: A Literature Review" [[paper]](http://pdfs.semanticscholar.org/3dff/acda086689c1bcb01a8dad4557a4e92b8205.pdf)<br>
