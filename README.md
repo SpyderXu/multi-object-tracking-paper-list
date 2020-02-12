@@ -41,8 +41,9 @@ Some source codes in above webpage are not listed in below Open Source.Such as:<
 "Learning an image-based motion context for multiple people tracking"<br> 
 ## Open Source
 ### Online
+**Track-no-bnw** Bergmann P, Meinhardt T, Lealtaixe L, et al. Tracking without bells and whistles[J]. (ICCV2020). [[paper]](https://arxiv.org/pdf/1903.05625.pdf)[[code]](https://github.com/phil-bergmann/tracking_wo_bnw)<br>
 **DeepMot** Yihong Xu Yutong Ban Xavier Alameda-Pineda Radu Horaud, "DeepMOT:A Differentiable Framework for Training Multiple Object Trackers" [[paper]](https://arxiv.org/pdf/1906.06618.pdf)[[code]](https://gitlab.inria.fr/yixu/deepmot)<br>
-**TrackR-CNN** Paul Voigtlaender and Michael Krause, "MOTS: Multi-Object Tracking and Segmentation" In CVPR2019 [[paper]](https://www.vision.rwth-aachen.de/media/papers/mots-multi-object-tracking-and-segmentation/MOTS.pdf)[[code]](https://github.com/VisualComputingInstitute/TrackR-CNN/tree/master)<br>
+**TrackR-CNN,MOTS** Paul Voigtlaender and Michael Krause, "MOTS: Multi-Object Tracking and Segmentation" In CVPR2019 [[paper]](https://www.vision.rwth-aachen.de/media/papers/mots-multi-object-tracking-and-segmentation/MOTS.pdf)[[code]](https://github.com/VisualComputingInstitute/TrackR-CNN/tree/master)<br>
 **Tracktor** Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe "Tracking without bells and whistles" In Arxiv [[paper]](https://arxiv.org/pdf/1903.05625.pdf)[[code]](https://github.com/phil-bergmann/tracking_wo_bnw)<br>
 **DMAN** Zhu, Ji and Yang, Hua and Liu, Nian and Kim, Minyoung and Zhang, Wenjun and Yang, Ming-Hsuan "Online Multi-Object Tracking with Dual Matching Attention Networks" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) [[code]](https://github.com/jizhu1023/DMAN_MOT) In ECCV2018<br>
 **LSST** Weitao Feng, Zhihao Hu, Wei Wu, Junjie Yan, Wanli Ouyang "Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification" [[paper]](https://arxiv.org/abs/1901.06129) SOA tracker on MOT ranking list. No code now.<br>
@@ -61,6 +62,7 @@ Robust Collaborative Model and Sample Selection"[[paper]](https://users.encs.con
 **OMPTTH** : Jianming Zhang, Liliana Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy," [[paper]]() [[code]](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm) Proc. Int. Conf. on Advanced Video and Signal Based Surveillance (AVSS), 2012.<br>
 **SMOT** : C. Dicle, O. Camps, M. Sznaier. "The Way They Move: Tracking Targets with Similar Appearance" [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Dicle_The_Way_They_2013_ICCV_paper.pdf) [[code]](https://bitbucket.org/cdicle/smot) In ICCV, 2013.<br>
 ### Batch
+**muSSP** Wang C, Wang Y, Wang Y, et al. muSSP: Efficient Min-cost Flow Algorithm for Multi-object Tracking[C]. neural information processing systems, 2019: 423-432. [[paper]](http://papers.nips.cc/paper/8334-mussp-efficient-min-cost-flow-algorithm-for-multi-object-tracking)[[code]](https://github.com/yu-lab-vt/muSSP)<br>
 **TNT** Gaoang Wang, Yizhou Wang, Haotian Zhang, Renshu Gu, Jenq-Neng Hwang "Exploit the Connectivity: Multi-Object Tracking with TrackletNet" [[paper]](https://arxiv.org/pdf/1811.07258.pdf) [[code]](https://github.com/GaoangW/TNT)<br>
 **NT** Longyin Wen*, Dawei Du*, Shengkun Li, Xiao Bian, Siwei Lyu Learning Non-Uniform Hypergraph for Multi-Object Tracking, In AAAI 2019 [[paper]](http://www.cs.albany.edu/~lsw/papers/aaai19a.pdf)[[code]](https://github.com/longyin880815) Waited!<br>
 **headTracking**: Shun Zhang, Jinjun Wang, Zelun Wang, Yihong Gong,Yuehu Liu: "Multi-Target Tracking by Learning Local-to-Global Trajectory Models" in PR 2015 [[paper]](https://www.researchgate.net/publication/265295656_Multi-Target_Tracking_by_Learning_Local-to-Global_Trajectory_Models) [[code]](https://github.com/gengshan-y/headTracking) seems like a repo.<br>
@@ -86,16 +88,25 @@ Robust Collaborative Model and Sample Selection"[[paper]](https://users.encs.con
 ## Private Detection
 **POI** : F. Yu, W. Li, Q. Li, Y. Liu, X. Shi, J. Yan. "POI: Multiple Object Tracking with High Performance Detection and Appearance Feature" [[paper]](https://arxiv.org/pdf/1610.06136.pdf) [[detection]](https://drive.google.com/open?id=0B5ACiy41McAHMjczS2p0dFg3emM) In BMTT, SenseTime Group Limited, 2016<br>
 ## New papers
-### CVPR2017
+### CVPR
+#### 2017
 Eldar Insafutdinov, Mykhaylo Andriluka, Leonid Pishchulin, Siyu Tang, Evgeny Levinkov, Bjoern Andres, Bernt Schiele "Art Track: Articulated Multi-Person Tracking in the Wild" [[paper]](https://arxiv.org/abs/1612.01465)<br>
 Manmohan Chandraker, Paul Vernaza, Wongun Choi, Samuel Schulter "Deep Network Flow for Multi-Object Tracking" [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Schulter_Deep_Network_Flow_CVPR_2017_paper.pdf)<br>
 Jeany Son, Mooyeol Baek, Minsu Cho, and Bohyung Han, "Multi-Object Tracking with Quadruplet Convolutional Neural Networks" [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Son_Multi-Object_Tracking_With_CVPR_2017_paper.pdf)<br>
-### ICCV2017
+#### 2018
+Girdhar R, Gkioxari G, Torresani L, et al. Detect-and-Track: Efficient Pose Estimation in Videos[C].(CVPR2018)[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf)[[code]](https://rohitgirdhar.github.io/DetectAndTrack/)  
+Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)   
+Features for Multi-Target Multi-Camera Tracking and Re-Identification [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)  
+#### 2019
+Self-Supervised Adaptation of High-Fidelity Face Models for Monocular Performance Tracking [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Raaj_Efficient_Online_Multi-Person_2D_Pose_Tracking_With_Recurrent_Spatio-Temporal_Affinity_CVPR_2019_paper.pdf)  
+Eliminating Exposure Bias and Metric Mismatch in Multiple Object Tracking [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Maksai_Eliminating_Exposure_Bias_and_Metric_Mismatch_in_Multiple_Object_Tracking_CVPR_2019_paper.pdf)
+### ICCV
 A. Sadeghian, A. Alahi, S. Savarese, Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies [[paper]](https://arxiv.org/abs/1701.01909)<br>
 Andrii Maksai, Xinchao Wang, Franc¸ois Fleuret, and Pascal Fua "Non-Markovian Globally Consistent Multi-Object Tracking
 " [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Maksai_Non-Markovian_Globally_Consistent_ICCV_2017_paper.pdf)[[code]](https://github.com/maksay/ptrack_cpp)<br>
 Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman, "Detect to Track and Track to Detect" [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf) [[code]](https://github.com/feichtenhofer/Detect-Track)<br>
 Qi Chu, Wanli Ouyang,  Xiaogang Wang, Bin Liu, Nenghai Yu "Online Multi-Object Tracking Using CNN-Based Single Object Tracker With Spatial-Temporal Attention Mechanism" [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chu_Online_Multi-Object_Tracking_ICCV_2017_paper.pdf)<br>
+**Track-no-bnw** Bergmann P, Meinhardt T, Lealtaixe L, et al. Tracking without bells and whistles[J]. (ICCV2020). [[paper]](https://arxiv.org/pdf/1903.05625.pdf)[[code]](https://github.com/phil-bergmann/tracking_wo_bnw)
 
 ### ECCV2018
 Ren, Liangliang and Lu, Jiwen and Wang, Zifeng and Tian, Qi and Zhou, Jie "Collaborative Deep Reinforcement Learning for Multi-Object Tracking" [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)<br>
@@ -113,4 +124,9 @@ Chung-Ching Lin, Ying Hung"A Prior-Less Method for Multi-Face Tracking in Uncons
 
 ### Multi-person Pose Tracking
 Yuliang Xiu, Jiefeng Li, Haoyu Wang, Yinghong Fang, Cewu Lu "Pose Flow: Efficient Online Pose Tracking" [[paper]](https://arxiv.org/abs/1802.00977) Idea is interesting but the true source code is not opened.<br>
-Bin Xiao, Haiping Wu, and Yichen Wei "Simple Baselines for Human Pose Estimation and Tracking" [[paper]](https://arxiv.org/pdf/1804.06208.pdf)[[code]](https://github.com/Microsoft/human-pose-estimation.pytorch)
+Bin Xiao, Haiping Wu, and Yichen Wei "Simple Baselines for Human Pose Estimation and Tracking" [[paper]](https://arxiv.org/pdf/1804.06208.pdf)[[code]](https://github.com/Microsoft/human-pose-estimation.pytorch)  
+Girdhar R, Gkioxari G, Torresani L, et al. Detect-and-Track: Efficient Pose Estimation in Videos[C].(CVPR2018)[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf)[[code]](https://rohitgirdhar.github.io/DetectAndTrack/)
+Multi-Person Articulated Tracking With Spatial and Temporal Embeddings [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Multi-Person_Articulated_Tracking_With_Spatial_and_Temporal_Embeddings_CVPR_2019_paper.pdf)  
+### Multi-camera Tracking
+Rolling Shutter and Radial Distortion Are Features for High Frame Rate Multi-Camera Tracking[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bapat_Rolling_Shutter_and_CVPR_2018_paper.pdf)
+CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
